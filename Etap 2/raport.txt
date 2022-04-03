@@ -1,0 +1,19 @@
+#Przegląd materiałów video:
+
+- https://www.youtube.com/watch?v=jjOriEZsrGk&t=723s
+
+- https://www.youtube.com/watch?v=5hbKyOL0_vk
+
+- https://www.youtube.com/watch?v=uj25PbkHb94&t=2008s
+
+
+
+#Poszerzenie zbioru źródeł wiedzy o następujące źródła:
+
+- http://zeszyty-naukowe.wwsi.ed.pl/zeszyty/zeszyt4/Mapowanie_Obiektowo-Relacyjne_ORM_-_Czy_Tylko_Dobra_Idea.pdf
+
+- https://vavatech.pl/technologie/frameworki/hibernate
+
+- https://silo.tips/queue/mapowanie-obiektowo-relacyjne-z-wykorzystaniem-hibernate?&queue_id=-1&v=1649016773&u=MjEyLjI0NC4yNTUuMjUz
+
+

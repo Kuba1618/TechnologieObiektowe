@@ -3,17 +3,14 @@
    Jakub Prusicki  jakub.prusicki30@gmail.com  gr.21B
 
 
-
 2) Temat  projektu:
 
    18. Wzorce projektowe dotyczące mapowania obiektowo- relacyjnego.
 
 
-
 3) Technologie:
 
    Java
-
 
 
 4) Tematy projektów:
@@ -24,4 +21,4 @@
    
    - Programowanie systemów rozproszonych: 
 
-	Komparator - Program do rozproszonego, porównywania plików. 
+	TSP - algorytmem mrówkowym. 
