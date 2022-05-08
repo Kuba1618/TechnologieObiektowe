@@ -5,7 +5,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class CreateStudentDemo {
+public class Retrieve {
 
     public static void main(String[] args) {
 
@@ -18,16 +18,14 @@ public class CreateStudentDemo {
 
         try{
 
-            System.out.println("Creating a new student object ...");
-            Student tempStudent = new Student(123L,"Paul","Wall","paul.wall@gmail.com");
+            System.out.println("Retrieving a student object ...");
+            Student tempStudent = new Student();
 
             session.beginTransaction();
 
-            System.out.println("Saving the student ...");
-
-            session.save(tempStudent);
-//          session.persist(tempStudent);
-
+            System.out.println("Loading/Retrieving the student ...");
+            tempStudent = session.get(Student.class,2);
+            System.out.println(tempStudent);
             session.getTransaction().commit();
 
             System.out.println("Done!");
